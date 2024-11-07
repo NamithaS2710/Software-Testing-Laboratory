@@ -178,6 +178,17 @@ account type & withdrawal operation
 22. unsuccessful withdrawal operation due to click cancel after insert card, pin number, language, 
 account type, withdrawal operation &amount to be withdraw
 ```
+
+
+
+
+
+
+
+
+
+
+
 ### Result:
 Thus, the ATM system specifications and reporting the various bugs is implemented and output was verified successfully
 
